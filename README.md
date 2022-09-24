@@ -1,2 +1,3 @@
 # abu
 a code for calculator
+this is my first try i am learning github ...
